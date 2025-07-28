@@ -88,7 +88,7 @@ export function TestimonialsSection() {
           <div className="flex justify-center items-center space-x-8 text-gray-600">
             <div className="text-center">
               <div className="text-green-600">
-                <AnimatedCounter end={1000} suffix="+" />
+                <AnimatedCounter end={999} suffix="+" />
               </div>
               <div className="text-sm">Happy Patients</div>
             </div>
